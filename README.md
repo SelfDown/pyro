@@ -6,6 +6,6 @@
 
 源pyro建议搭建一个注册服务器。感觉模仿open_opc 比较好，直接ip加端口访问，获取到对象
 
-server 是服务端代码，可以做出servcie，开机启动
+server 是服务端代码，可以做出servcie，或者开机启动
 
 client 是客户端代码
