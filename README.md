@@ -9,3 +9,18 @@
 server 是服务端代码，可以做出servcie，或者开机启动
 
 client 是客户端代码
+
+
+pyro-ns   (Name Server)
+
+
+pyro-es   (Event Server)
+
+
+
+pyro-nsc   (Name Server Control tool)
+
+pyro-xnsc   (Graphical NS control tool)
+
+pyro 工具列表
+https://pythonhosted.org/Pyro/4-usage.html
