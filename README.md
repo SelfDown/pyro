@@ -24,3 +24,5 @@ pyro-xnsc   (Graphical NS control tool)
 
 pyro 工具列表
 https://pythonhosted.org/Pyro/4-usage.html
+
+事件查看器  eventvwr.msc
