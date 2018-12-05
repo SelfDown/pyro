@@ -26,3 +26,6 @@ pyro 工具列表
 https://pythonhosted.org/Pyro/4-usage.html
 
 事件查看器  eventvwr.msc
+
+**判断类型是否为字符串
+   len([t for t in tags if type(t) not in types.StringTypes])==0
